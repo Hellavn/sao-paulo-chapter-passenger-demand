@@ -8,4 +8,4 @@ Para visualizar a Dashboard <a href="https://public.tableau.com/app/profile/vand
 
 ## Installation
 
-Caso queira visualizar o projeto pe necessário a instalação do  <a href="https://www.tableau.com/" target="_blank">TABLEAU</a> ou do Tableau Academic (free to alumnus for 1 year): <a href="https://www.tableau.com/academic/students" target="_blank"> TABLEAU ACADEMIC</a>  
+Caso queira visualizar o projeto pe necessário a instalação do  <a href="https://www.tableau.com/" target="_blank">TABLEAU</a> ou do Tableau Academic  <a href="https://www.tableau.com/academic/students" target="_blank"> TABLEAU ACADEMIC</a>  
