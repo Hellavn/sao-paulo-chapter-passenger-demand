@@ -10,4 +10,4 @@ Para acesso ao projeto completo <a href="https://github.com/OmdenaAI/sao-paulo-c
 
 ## Installation
 
-Caso queira visualizar o projeto pe necessário a instalação do  <a href="https://www.tableau.com/" target="_blank">TABLEAU</a> ou do Tableau Academic  <a href="https://www.tableau.com/academic/students" target="_blank"> TABLEAU ACADEMIC</a>  
+Caso queira visualizar o projeto é necessário a instalação do  <a href="https://www.tableau.com/" target="_blank">TABLEAU</a> ou do Tableau Academic  <a href="https://www.tableau.com/academic/students" target="_blank"> TABLEAU ACADEMIC</a>  
